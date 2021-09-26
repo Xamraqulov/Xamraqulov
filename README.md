@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning Swift for iOS
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me muhammad.700@icloud.com
+- 📫 How to reach me muhammadiy@alphacom.uz or mail@muhammadiy.uz
 
 <!---
 MuhammadiyDev/MuhammadiyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
