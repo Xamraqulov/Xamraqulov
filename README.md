@@ -37,7 +37,7 @@
 
   <br />
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadiyDev&theme=algolia&layout=compact)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxbek&theme=algolia&layout=compact)
 
 </details>
 
@@ -46,9 +46,9 @@
 
 
 
-![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadiyDev&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
+![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxbek&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadiyDev&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/MuhammadiyDev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mxbek&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/mexbek)
 
 ![Snake animation](https://github.com/samandareo/samandareo/blob/main/snake.svg)
 
