@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C and C++<br />
 - 💞️ I’m looking to collaborate on<br />
 - 👥 My Organizations: [Muhammadiy, Corp](https://github.com/muhammadiy-corp), [AlphaCom, Inc](https://github.com/alphacom-inc) and [Astrum IT-Lab](https://github.com/astrum-team)<br />
-- 📫 How to reach me muhammadiy@alphacom.uz or mail@muhammadiy.uz<br />
+- 📫 How to reach me muhammad.700@icloud.com<br />
 
 ---
 
