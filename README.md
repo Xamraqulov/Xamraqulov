@@ -6,7 +6,7 @@
 - 👀 I’m interested in Full Stack development<br />
 - 🌱 I’m currently learning C and C++<br />
 - 💞️ I’m looking to collaborate on<br />
-- 👥 My Organizations: [Muhammadiy, Corp](https://github.com/muhammadiy-corp), [AlphaCom, Inc](https://github.com/alphacom-inc) and [Astrum IT-Lab](https://github.com/astrum-team)<br />
+- 👥 My Organizations: [AlphaCom, Inc](https://github.com/AlphaCom-Inc), [Astrum IT-Lab](https://github.com/astrum-lab) and [Sombra](https://github.com/Sombra-LLC)<br />
 - 📫 How to reach me muhammad.700@icloud.com<br />
 
 ---
