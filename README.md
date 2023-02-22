@@ -50,8 +50,6 @@
 
 [![Muhammadiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxbek&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/mexbek)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mxbek&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/mexbek)
-
 [![Snake animation](https://github.com/samandareo/samandareo/blob/main/snake.svg)](https://github.com/mexbek)
 
 
