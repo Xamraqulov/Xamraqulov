@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C and C++<br />
 - 🔭 I’m currently working on freelance and my own projects<br />
 - 💬 Ask me about Vue, Laravel, PHP, MySQL, Python, Aiogram, Telebot and Flutter
-- 👥 Founder and Co-Founder of [AlphaCom, Inc](https://github.com/AlphaCom-Inc), [Astrum IT-Lab](https://github.com/astrum-lab) and [Sombra](https://github.com/Sombra-LLC)<br />
+- 👥 Founder and Co-Founder of [Sombra](https://github.com/Sombra-LLC), [Astrum IT-Lab](https://github.com/astrum-lab), [SYNC](https://github.com/SYNC-UZ) and [AlphaCom, Inc](https://github.com/AlphaCom-Inc)<br />
 - 📫 ✉️ You can shoot me an email at muhammad.700@icloud.com or muhammadiy@sombra.uz ! I'll try to respond as soon as I can.<br />
 
 ---
@@ -39,7 +39,7 @@
 
   <br />
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxbek&theme=algolia&layout=compact)](https://github.com/mexbek)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkbek&theme=algolia&layout=compact)](https://github.com/mexbek)
 
 </details>
 
@@ -48,13 +48,9 @@
 
 
 
-[![Muhammadiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxbek&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/mexbek)
+[![Muhammadiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkbek&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/mexbek)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mxbek&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/mexbek)
-
-[![Snake animation](https://github.com/samandareo/samandareo/blob/main/snake.svg)](https://github.com/mexbek)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mkbek&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/mexbek)
 
 
 [C]: https://www.iso.org/standard/74528.html
