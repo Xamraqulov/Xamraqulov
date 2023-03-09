@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on freelance and my own projects<br />
 - 💬 Ask me about Vue, Laravel, PHP, MySQL, Python, Aiogram, Telebot and Flutter
 - 👥 Founder and Co-Founder of [Sombra](https://github.com/Sombra-LLC), [Astrum IT-Lab](https://github.com/astrum-lab), [SYNC](https://github.com/SYNC-UZ) and [AlphaCom, Inc](https://github.com/AlphaCom-Inc)<br />
-- 📫 ✉️ You can shoot me an email at muhammad.700@icloud.com or muhammadiy@sombra.uz ! I'll try to respond as soon as I can.<br />
+- 📫 ✉️ You can shoot me an email at muhammad.700@inbox.ru or muhammadiy@sombra.uz ! I'll try to respond as soon as I can.<br />
 
 ---
 
@@ -39,7 +39,7 @@
 
   <br />
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkbek&theme=algolia&layout=compact)](https://github.com/mexbek)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkbek&theme=algolia)](https://github.com/mexbek)
 
 </details>
 
