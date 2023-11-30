@@ -1,8 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/samandareo/samandareo/master/wave.gif" width="20px">, <br /> I am *Muhammadiy*.
 
-
-![](https://storage.googleapis.com/alphacontrol.appspot.com/favicon.png)
-
 ---
 
 - 👀 I’m interested in Software Engineering<br />
