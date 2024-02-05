@@ -4,11 +4,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Muhammadiy K.",
   description: "About Me",
-  head: [['link', { rel: 'icon', href: 'https://camo.githubusercontent.com/c7a8bc3462663c3f208eb72f7d26d604e45a3c773f38d3240a3705f657c2bd97/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f616c706861636f6e74726f6c2e61707073706f742e636f6d2f6d656d6f6a692d666f722d6769746875622e706e67' }]],
+  head: [['link', { rel: 'icon', href: 'https://github.com/mkbek.png' }]],
   cleanUrls: true,
 
   themeConfig: {
-    logo: "https://camo.githubusercontent.com/c7a8bc3462663c3f208eb72f7d26d604e45a3c773f38d3240a3705f657c2bd97/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f616c706861636f6e74726f6c2e61707073706f742e636f6d2f6d656d6f6a692d666f722d6769746875622e706e67",
+    logo: "https://github.com/mkbek.png",
 
     nav: [
       { text: 'Home', link: '/' },
