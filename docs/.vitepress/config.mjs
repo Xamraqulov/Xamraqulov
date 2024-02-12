@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Muhammadiy K.",
+  title: "Muhammadiy X.",
   description: "About Me",
   head: [['link', { rel: 'icon', href: 'https://github.com/mkbek.png' }]],
   cleanUrls: true,
@@ -24,7 +24,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: "Copyright © 2019-2023 <a href='https://github.com/MKbek'>Muhammadqodir Khamrakulov</a>.",
+      copyright: "Copyright © 2019-2023 <a href='https://github.com/MKbek'>Muhammadqodir Xamrakulov</a>.",
     }
   }
 })

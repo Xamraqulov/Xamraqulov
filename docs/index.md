@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "My name's"
-  text: "Muhammadqodir Khamrakulov"
+  text: "Muhammadqodir Xamrakulov"
   tagline: Some people know me by the nickname <span class='title'>Muhammadiy</span>
   image: https://github.com/mkbek.png
   actions:
